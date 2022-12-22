@@ -1,0 +1,32 @@
+{
+  "name": "paperback-themes-discord-bot",
+  "version": "1.0.0",
+  "description": "A bot that allows users to install Paperback themes trough Discord.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celarye/paperback-themes-discord-bot.git"
+  },
+  "keywords": [
+    "Discord",
+    "bot",
+    "Paperback",
+    "Themes"
+  ],
+  "author": "Celarye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Celarye/paperback-themes-discord-bot/issues"
+  },
+  "homepage": "https://github.com/Celarye/paperback-themes-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
