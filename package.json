@@ -11,10 +11,11 @@
     "url": "git+https://github.com/Celarye/paperback-themes-discord-bot.git"
   },
   "keywords": [
-    "Discord",
-    "bot",
     "Paperback",
-    "Themes"
+    "Themes",
+    "Discord",
+    "bot"
+
   ],
   "author": "Celarye",
   "license": "MIT",
@@ -24,9 +25,7 @@
   "homepage": "https://github.com/Celarye/paperback-themes-discord-bot#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
-  },
-  "devDependencies": {
-    "eslint": "^8.30.0"
+    "dotenv": "^16.0.3",
+    "eslint": "^8.33.0"
   }
 }
